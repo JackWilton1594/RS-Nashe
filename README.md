@@ -3,7 +3,7 @@ This repository contains data associated with Brett Greatley-Hirsch and Rachel W
 
  The data is released under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
-[RG-JL-AM-TN-meta.csv](RG-JL-AM-TN-meta.csv) supplies metadata for the corpus of 36 prose texts by Robert Greene, John Lyly, Anthony Munday, and Thomas Nashe, as well as _Two Dangerous Comets_ and _A Wonderful Prognostication_, including details about authorship, the source texts used and their dates of publication.
+[RG-JL-AM-TN-meta.csv](RG-JL-AM-TN-meta.csv) supplies metadata for the corpus of prose texts by Robert Greene, John Lyly, Anthony Munday, and Thomas Nashe, as well as _Two Dangerous Comets_ and _A Wonderful Prognostication_, including details about authorship, the source texts used and their dates of publication.
 
 [RG-JL-AM-TN-top250mfwnpp.csv](RG-JL-AM-TN-top250mfwnpp.csv) tables word-frequency counts (as a proportion of total tokens) for the top 250 most frequent words, excluding personal pronouns, in the corpus. 
 

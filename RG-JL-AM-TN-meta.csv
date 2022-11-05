@@ -1,39 +1,38 @@
-Text,Author
-1 Conycatching,Greene
-2 Conycatching,Greene
-3 Conycatching,Greene
-Alcida,Greene
-Anatomy of Absurdity,Nashe
-Arbasto,Greene
-Black Book's Messenger,Greene
-Brief Answer,Munday
-Christ's Tears,Nashe
-Ciceronis Amor,Greene
-Courtly Controversy,Munday
-Disputation,Greene
-English Roman Life,Munday
-Euphues Anatomy,Lyly
-Euphues His England,Lyly
-Farewell to Folly,Greene
-Have With You,Nashe
-Lenten Stuff,Nashe
-Menaphon,Greene
-Mourning Garment,Greene
-Never Too Late,Greene
-Orpharion,Greene
-Pandosto,Greene
-Penelope's Web,Greene
-Perimedes,Greene
-Philomela,Greene
-Pierce Penniless,Nashe
-Planetomachia,Greene
-Preface to Menaphon,Nashe
-Quip for an Upstart Courtier,Greene
-Strange News,Nashe
-Terrors of the Night,Nashe
-Unfortunate Traveller,Nashe
-Vision,Greene
-Watchword,Munday
-Zelauto,Munday
-Two Dangerous Comets,Uncertain
-Wonderful Prognostication,Uncertain
+Text,Author,Source,Date,Tokens
+1 Conycatching,Greene,STC 12280,1592,12590
+2 Conycatching,Greene,STC 12281,1591,14479
+3 Conycatching,Greene,STC 12283.5,1592,12068
+Arbasto,Greene,STC 12219,1589,18358
+Black Book's Messenger,Greene,STC 12223,1592,7280
+Ciceronis Amor,Greene,STC 12224,1589,26156
+Disputation,Greene,STC 12234,1592,19578
+Farewell to Folly,Greene,STC 12241,1591,28117
+Menaphon,Greene,STC 12272,1589,24898
+Mourning Garment,Greene,STC 12251,1590,19698
+Never Too Late,Greene,STC 12253,1590,44328
+Orpharion,Greene,STC 12260,1599,19918
+Pandosto,Greene,STC 12285,1588,17108
+Penelope's Web,Greene,STC 12294,1601,12265
+Perimedes,Greene,STC 12295,1588,16702
+Philomela,Greene,STC 12296,1592,21524
+Planetomachia,Greene,STC 12299,1585,34048
+Quip for an Upstart Courtier,Greene,STC 12300,1592,20891
+Vision,Greene,STC 12261,1592,19060
+Euphues Anatomy [extract],Lyly,STC 17051,1578,57551
+Euphues His England [extract],Lyly,STC 17070,1580,62620
+Brief Answer,Munday,STC 18262,1582,10770
+Courtly Controversy,Munday,STC 18268,1581,9399
+English Roman Life,Munday,STC 18272,1582,22977
+Watchword,Munday,STC 18282,1584,33221
+Zelauto,Munday,STC 18283,1580,42096
+Anatomy of Absurdity,Nashe,STC 18364,1589,15369
+Christ's Tears,Nashe,STC 18368,1613,56782
+Have With You,Nashe,STC 18369,1596,46401
+Lenten Stuff,Nashe,STC  18370,1599,26986
+Pierce Penniless,Nashe,STC 18373,1592,30414
+Preface to Menaphon,Nashe,STC 12272,1589,4356
+Strange News,Nashe,STC 18377A,1592,25192
+Terrors of the Night,Nashe,STC 18379,1594,14664
+Unfortunate Traveller,Nashe,STC 18380,1594,40983
+Two Dangerous Comets,Uncertain,STC 22645,1591,6214
+Wonderful Prognostication,Uncertain,STC 11210,1591,5369

@@ -1,7 +1,7 @@
 # _Two Dangerous Comets_ and _A Wonderful Prognostication_ data
 This repository contains data associated with Brett Greatley-Hirsch and Rachel White, “Ass-troll-ogical Nashe: Revisiting _Two Dangerous Comets_ and _A Wonderful Prognostication_”. For more information, please consult the published article.
 
- The data is released under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+The data is released under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
 [RG-JL-AM-TN-meta.csv](RG-JL-AM-TN-meta.csv) supplies metadata for the corpus of prose texts by Robert Greene, John Lyly, Anthony Munday, and Thomas Nashe, as well as _Two Dangerous Comets_ and _A Wonderful Prognostication_, including details about authorship, the source texts used and their dates of publication.
 

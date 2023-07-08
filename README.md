@@ -1,5 +1,5 @@
 # _Two Dangerous Comets_ and _A Wonderful Prognostication_ data
-This repository contains data associated with Rachel White and Brett Greatley-Hirsch, “Ass-troll-ogical Nashe: Revisiting _Two Dangerous Comets_ and _A Wonderful Prognostication_,” _Renaissance Studies_ 38 (2024). For more information, please consult the published article.
+This repository contains data associated with Rachel White and Brett Greatley-Hirsch, “Ass-troll-ogical Nashe: Revisiting _Two Dangerous Comets_ and _A Wonderful Prognostication_,” _Renaissance Studies_ 38 (2024). DOI: [10.1111/rest.12893](https://onlinelibrary.wiley.com/doi/full/10.1111/rest.12893). For more information, please consult the published article.
 
 The data is released under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
